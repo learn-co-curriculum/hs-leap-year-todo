@@ -9,7 +9,7 @@
 
 ## Leap Years*
 
-Write a program that takes in two arguments for a starting year and an ending year, and then puts all of the leap years between them (including the starting and ending years, if they are also leap years). 
+Write a method that takes in two arguments for a starting year and an ending year, and then puts all of the leap years between them (including the starting and ending years, if they are also leap years). 
 
 Leap years are years divisible by four (like 1984 and 2004). However, years divisible by 100 are not leap years (such as 1800 and 1900) unless they are ALSO divisible by 400 (like 1600 and 2000). 
 
