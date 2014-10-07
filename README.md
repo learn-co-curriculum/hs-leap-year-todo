@@ -5,7 +5,7 @@
   type: to-do
 ---
 
-![goat](http://media0.giphy.com/media/tuP0XC2h8aEZa/200.gif)
+![antelopes](http://media0.giphy.com/media/tuP0XC2h8aEZa/200.gif)
 
 ## Leap Years*
 
