@@ -9,6 +9,6 @@
 
 Hint: Leap years are years divisible by four (like 1984 and 2004). However, years divisible by 100 are _not_ leap years (such as 1800 and 1900) unless they are ALSO divisible by 400 (like 1600 and 2000). 
 
-Yes, it's all pretty confusing, but not as confusing has having July in the middle of the winter, which is what would eventually happen if we didn't have leap years!
+Yes, it's all pretty confusing, but not as confusing as having July in the middle of the winter, which is what would eventually happen if we didn't have leap years!
 
 *This is originally from Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram/chap_05.html) book.
