@@ -1,9 +1,4 @@
----
-  tags: methods, kids, ruby 
-  languages: ruby
-  level: 1
-  type: to-do
----
+
 ## Leap Years*
 <img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10"> Write a method that takes in two arguments for a starting year and an ending year, and then `puts` all of the leap years between them (including the starting and ending years, if they are also leap years). 
 
