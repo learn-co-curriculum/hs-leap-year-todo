@@ -9,3 +9,5 @@ Hint: Leap years are years divisible by four (like 1984 and 2004). However, year
 Yes, it's all pretty confusing, but not as confusing as having July in the middle of the winter, which is what would eventually happen if we didn't have leap years!
 
 *This is originally from Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram/chap_05.html) book.
+
+<a href='https://learn.co/lessons/hs-leap-year-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
