@@ -10,4 +10,4 @@ Yes, it's all pretty confusing, but not as confusing as having July in the middl
 
 *This is originally from Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram/chap_05.html) book.
 
-<a href='https://learn.co/lessons/hs-leap-year-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-leap-year-todo' title='Leap Years*'>Leap Years*</a> on Learn.co and start learning to code for free.</p>
